@@ -1,2 +1,2 @@
 # withGwen
-Crash course with Gwen
+Course with Gwen
